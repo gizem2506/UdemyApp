@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0",
+    "title": "Python ile Makine Öğrenmesi",
+    "egitmen": "Şadi Evren Şeker",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://www.sonsuzteknoloji.com/wp-content/uploads/2018/06/yapay-zeka.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Android Mobil Uygulama Kursu: Kotlin & Java",
+    "egitmen": "Atıl Samancıoğlu",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://coursecouponclub.com/wp-content/uploads/2021/10/1207662_42a8_5-622x350.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Komple Uygulamalı Web Geliştirme Eğitimi",
+    "egitmen": "Sadık Turan",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://i.ytimg.com/vi/9YYxvVawZdI/mqdefault.jpg"
+  },
+  {
+    "id": "3",
+    "title": "(40+ Saat) Python | Sıfırdan İleri Seviye Programlama",
+    "egitmen": "Mustafa Murat Çoşkun",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/4002b4469ae9.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Clean Code - Temiz Kod Yazma Sanatı",
+    "egitmen": "Furkan Sönmez",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jLoffK-3nePcLZwmshL-NGeIHR6dBo4dog&usqp=CAU"
+  },
+  {
+    "id": "5",
+    "title": "Sıfırdan Flutter ile Android ve Ios Apps Development",
+    "egitmen": "Emre Altunbilek",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://cdn-thumbs.comidoc.net/750/webp/2102110_e157_4.webp"
+  },
+  {
+    "id": "6",
+    "title": "Uygulamalarla SQL Öğreniyorum",
+    "egitmen": "Ömer Çolakoğlu",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://www.veribilimiokulu.com/wp-content/uploads/2020/03/uygulamalarla-sql-ogreniyorum-udemy.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Unity 3D ile Sıfırdan Oyun Geliştirmeyi Öğrenin",
+    "egitmen": "Ömer Faruk Sarıkaya",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Febf0bfce05ca.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&w=535&s=7c94771ed829c5979730e4d10c743c3b"
+  },
+  {
+    "id": "8",
+    "title": "ASP .NET MVC Yazılımcıların Yükselişi",
+    "egitmen": "Murat Başeren",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://cdn-thumbs.comidoc.net/750/webp/736686_3d9c_4.webp"
+  },
+  {
+    "id": "9",
+    "title": "Uçtan Uca Nodejs",
+    "egitmen": "Yasin Dalkılıç",
+    "dil": "Türkçe",
+    "fiyat":"₺49,99",
+    "imageUrl": "https://camo.githubusercontent.com/c303be8e063dc3b153fc3581cd7c46128a734fd77bc655603c04498448044a73/68747470733a2f2f6d65686d6574736576656e2e6e65742f636f6e74656e742f696d616765732f323031372f31322f6e6f64656a732d6d65686d65742d736576656e2e6a7067"
+  },
+  {
+    "id": "10",
+    "title": "Sıfırdan İleri Düzey Web Geliştirme (HTML, CSS, Javascript)",
+    "egitmen": "Levent Ertunalılar",
+    "dil": "Türkçe",
+    "fiyat":"₺69,99",
+    "imageUrl": "https://cdn-thumbs.comidoc.net/750/3411232_ca80_2.jpg"
+  }
+]
